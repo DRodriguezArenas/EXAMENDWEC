@@ -1,0 +1,93 @@
+[
+    {
+      "nom": "Mario",
+      "atac": 80,
+      "defensa": 70,
+      "velocitat": 8,
+      "salut": 100,
+      "descripcio": "El famós fontaner amb el seu icònic vestit vermell.",
+      "foto": "fotos/Mario.png"
+    },
+    {
+      "nom": "Luigi",
+      "atac": 75,
+      "defensa": 65,
+      "velocitat": 7,
+      "salut": 100,
+      "descripcio": "El germà de Mario, sempre llest per a les aventures.",
+      "foto": "fotos/Luigi.png"
+    },
+    {
+      "nom": "Princesa Peach",
+      "atac": 70,
+      "defensa": 75,
+      "velocitat": 6,
+      "salut": 100,
+      "descripcio": "La princesa del Regne dels Bolets, sovint capturada per Bowser.",
+      "foto": "fotos/PrincessPeach.png"
+    },
+    {
+      "nom": "Bowser",
+      "atac": 85,
+      "defensa": 80,
+      "velocitat": 5,
+      "salut": 120,
+      "descripcio": "El rei dels Koopas i principal enemic de Mario.",
+      "foto": "fotos/Bowser.png"
+    },
+    {
+      "nom": "Yoshi",
+      "atac": 78,
+      "defensa": 72,
+      "velocitat": 9,
+      "salut": 110,
+      "descripcio": "Un amic dinosaure de Mario amb la capacitat de posar ous.",
+      "foto": "fotos/Yoshi.png"
+    },
+    {
+      "nom": "Toad",
+      "atac": 65,
+      "defensa": 60,
+      "velocitat": 7,
+      "salut": 90,
+      "descripcio": "Un dels habitants del Regne dels Bolets que ajuda Mario.",
+      "foto": "fotos/Toad.png"
+    },
+    {
+      "nom": "Wario",
+      "atac": 88,
+      "defensa": 76,
+      "velocitat": 8,
+      "salut": 110,
+      "descripcio": "L'antagonista i rival de Mario, conegut pel seu amor per les riqueses.",
+      "foto": "fotos/Wario.png"
+    },
+    {
+      "nom": "Donkey Kong",
+      "atac": 82,
+      "defensa": 68,
+      "velocitat": 7,
+      "salut": 105,
+      "descripcio": "Un goril·la gegant que sovint es relaciona amb Mario.",
+      "foto": "fotos/DonkeyKong.png"
+    },
+    {
+      "nom": "Koopa Troopa",
+      "atac": 70,
+      "defensa": 50,
+      "velocitat": 6,
+      "salut": 80,
+      "descripcio": "Un dels soldats de l'exèrcit de Bowser.",
+      "foto": "fotos/KoopaTroopa.png"
+    },
+    {
+      "nom": "Goomba",
+      "atac": 60,
+      "defensa": 40,
+      "velocitat": 5,
+      "salut": 70,
+      "descripcio": "Petit enemic amb forma de bolet que es troba sovint al Regne dels Bolets.",
+      "foto": "fotos/Goomba.png"
+    }
+  ]
+  

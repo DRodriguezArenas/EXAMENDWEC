@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mario Bros</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div style="text-align: center;">
+        <img src="mariobros.jpg" alt="Presentación de la App" style="width: 100%; max-height: 500px; object-fit: cover;">
+    </div>
+
+    <h1>MARIO BROS</h1>
+
+    <!-- Jugador 1 -->
+    <div id="jugador1" class="jugador">
+        <h2>Jugador 1</h2>
+        <div id="cartas-jugador1" class="cartas"></div>
+    </div>
+
+    <!-- Jugador 2 -->
+    <div id="jugador2" class="jugador">
+        <h2>Jugador 2</h2>
+        <div id="cartas-jugador2" class="cartas"></div>
+    </div>
+
+    <button id="iniciarJuegoBtn">Iniciar Juego</button>
+    <button id="pelearBtn">Pelear</button>
+
+    <template id="template">
+        <article class="card">
+            <h2 id="name"></h2>
+            <img src="" alt="">
+            <p id="stats"></p>
+        </article>
+    </template>
+    
+    <div id="atac" class="hidden"></div>
+    <div id="result" class="hidden"></div>
+    <button id="reiniciarJuegoBtn">Reiniciar Juego</button>
+    <script src="script.js"></script>
+</body>
+</html>
